@@ -1,2 +1,2 @@
 all:
-	g++ task.cpp -o	task
+	g++ task-1.0.cpp -o task-1.0
